@@ -1,7 +1,7 @@
 {
   "app": {
     "status": true,
-    "redirect_url": ""
+    "redirect_url": "https://github.com/solodroid-developer/wallhub"
   },
   "github": {
     "username": "solodroid-developer",
@@ -98,4 +98,5 @@
   }
 
 }
+
 
