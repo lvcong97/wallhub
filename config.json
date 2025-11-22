@@ -4,7 +4,7 @@
     "redirect_url": ""
   },
   "github": {
-    "username": "solodroid-developer",
+    "username": "lvcong97",
     "repository": "wallhub",
     "branch": "main"
   },
@@ -96,4 +96,5 @@
       "native_ad_style_wallpaper_details": "large"
     }
   }
+
 }
